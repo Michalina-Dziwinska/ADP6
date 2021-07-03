@@ -9,7 +9,7 @@ status1 = {
 	
 status2 = { 'rok': 2020
 	'iloscMieszkancow': 1794166
-}
+	}
 
 
 r1 = requests.put(url, json=status1)
